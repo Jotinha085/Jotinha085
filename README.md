@@ -8,6 +8,7 @@
 ▫️Gosto de ouvir músicas, principalmente Rock e MPB 🎧
 
 ![Jotinha085 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jotinha085&show_icons=true&theme=dracula)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jotinha085&theme=dracula" alt="GitHub Streak Stats" style="width: 100%; max-width: 500px;">
            
 
 # Linguagens e tecnologias que uso 💻
