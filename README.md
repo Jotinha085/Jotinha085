@@ -8,6 +8,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jotinha085&theme=dracula" alt="GitHub Streak Stats" style="width: 100%; max-width: 500px;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotinha085&layout=compact&theme=dracula" alt="Linguagens mais usadas" style="width: 100%; max-width: 500px;">          
+
 # Linguagens e tecnologias que uso 💻
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
