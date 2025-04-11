@@ -16,6 +16,9 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-222222?&style=for-the-badge&logo=css3&logoColor=00BFFF)
+![Shell](https://img.shields.io/badge/Shell-222222?style=for-the-badge&logo=Shell&logoColor=FF0000)                  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
  <h2>📬 Se quiser trocar um papo comigo, só entrar em contato: </h2>
         <div class="social-links">
             <a href="https://github.com/Jotinha085" target="_blank">
