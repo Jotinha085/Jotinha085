@@ -34,8 +34,3 @@
     </section>
 </body>
 
-
-            </a>
-        </div>
-    </section>
-</body>
