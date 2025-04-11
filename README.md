@@ -9,6 +9,7 @@
 
 ![Jotinha085 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jotinha085&show_icons=true&theme=dracula)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jotinha085&theme=dracula" alt="GitHub Streak Stats" style="width: 100%; max-width: 500px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotinha085&layout=compact&theme=dracula" alt="Linguagens mais usadas" style="width: 100%; max-width: 500px;">
            
 
 # Linguagens e tecnologias que uso 💻
