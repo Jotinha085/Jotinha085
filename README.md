@@ -20,16 +20,16 @@
 
  <h2>📬 Se quiser trocar um papo comigo, só entrar em contato: </h2>
         <div class="social-links">
-            <a href="https://github.com/gl7x" target="_blank">
+            <a href="https://github.com/Jotinha085" target="_blank">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Meu perfil no GitHub">
             </a>
-            <a href="mailto:guilherme.silva@aluno.ifce.edu.br">
+            <a href="mailto:victor.martins08@aluno.ifce.edu.br">
                 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail - Envie um e-mail para Victor">
             </a>
-            <a href="https://www.instagram.com/gl.7x" target="_blank">
+            <a href="https://www.instagram.com/jota.13xz" target="_blank">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - Me siga no Instagram">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585981051866)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585986223670)
             </a>
         </div>
     </section>
